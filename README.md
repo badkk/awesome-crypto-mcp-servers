@@ -9,6 +9,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Server Implementations
 
+- **[Apollo Intelligence MCP Server](https://github.com/bnmbnmai/mcp-proxy)** - 21-tool MCP server for AI agents: real-time crypto prices & trending tokens (CoinGecko), web scraping via 190+ country residential proxy network, market sentiment, agentic trends, and curated intelligence feeds. Pay-per-request via [x402](https://www.x402.org/) micropayments (USDC on Base). Install: `npm i -g @apollo_ai/mcp-proxy`
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
