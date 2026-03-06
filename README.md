@@ -20,6 +20,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[Heurist Mesh Agent](https://github.com/heurist-network/heurist-mesh-mcp-server)** - Access specialized web3 AI agents for blockchain analysis, smart contract security, token metrics, and blockchain interactions through the [Heurist Mesh network](https://github.com/heurist-network/heurist-agent-framework/tree/main/mesh).
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
+- **[OBSD LaunchPad MCP](https://github.com/thryxagi/obsd-launchpad)** - Full token lifecycle MCP for AI agents on [Base](https://base.org). 12 tools: deploy, buy, sell, claim fees, get quotes, referral program, and query earnings via `npx obsd-launchpad-mcp`. Treasury-backed intrinsic value floor, progressive sell tax, and 37.5% passive OBSD income. 10 verified contracts, 275 tests.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
 
 ---
