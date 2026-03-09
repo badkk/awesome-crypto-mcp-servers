@@ -23,5 +23,6 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
 
 ---
+- **[rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp)** - MCP server for the RustChain blockchain and BoTTube video platform. 15 tools for AI agents to earn RTC tokens through mining attestation, wallet management, bounty hunting, and video publishing. Proof-of-Antiquity consensus rewards vintage hardware. Install: `pip install rustchain-mcp`
 
 Crafted by [Magnet Labs](https://magnetlabs.xyz) with our vibrant AI & Crypto community
