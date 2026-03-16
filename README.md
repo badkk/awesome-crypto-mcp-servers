@@ -1,11 +1,14 @@
 # Awesome Crypto MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) servers - Crypto Edition 🔒
+A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) servers - Crypto Edition ð
 
 ## Tutorials
 
 - [How to Use MCP Tools on Claude Desktop App](https://medium.com/@pedro.aquino.se/how-to-use-mcp-tools-on-claude-desktop-app-and-automate-your-daily-tasks-1c38e22bc4b0)
 - [MCP Server Manager Desktop App](https://github.com/Jeamee/MCPHub-Desktop/releases) - An Open Source MacOS & Windows GUI Desktop app for discovering, installing and managing MCP servers by [Jeamee](https://github.com/jeamee)
+
+- **[AgentBroker](https://agentbroker.polsia.app)** — API-first crypto exchange for AI agents. Provides MCP-compatible REST API for autonomous agents to register, deposit, trade, and withdraw crypto. Sandbox available.
+
 
 ## Server Implementations
 
