@@ -25,3 +25,4 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 ---
 
 Crafted by [Magnet Labs](https://magnetlabs.xyz) with our vibrant AI & Crypto community
+- [Bitget MCP Server](https://github.com/bitget-official/agent_hub) - Official Bitget MCP Server — trade, query, and manage your crypto portfolio through AI assistants.
