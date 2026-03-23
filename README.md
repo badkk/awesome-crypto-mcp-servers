@@ -21,6 +21,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
+- **[Flash Payment System (bUSD1 Runes MCP)](https://github.com/ElromEvedElElyon/flash-payment-system)** - First write-capable Bitcoin Runes MCP server. 12 tools to mint, transfer, batch-mint, and list [BITCOIN•USD•ONE](https://ordinals.com/rune/BITCOIN%E2%80%A2USD%E2%80%A2ONE) Runes. bUSD1 USD stablecoin backed 1:1 by Runes on Bitcoin L1 with Chainlink Proof of Reserves. Agent swarm coordination and x402 agent-to-agent payments. 99 tests passing.
 
 ---
 
