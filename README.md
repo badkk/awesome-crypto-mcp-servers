@@ -20,6 +20,8 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[Heurist Mesh Agent](https://github.com/heurist-network/heurist-mesh-mcp-server)** - Access specialized web3 AI agents for blockchain analysis, smart contract security, token metrics, and blockchain interactions through the [Heurist Mesh network](https://github.com/heurist-network/heurist-agent-framework/tree/main/mesh).
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
+- **[jacksun911/megalaunch-mcp](https://github.com/jacksun911/megalaunch-mcp)** - AI-powered meme token launch on Solana/pump.fun via MCP. 6 tools: create orders, check status, get pricing. One-command install: `npx megalaunch-mcp`. Glama A/A/A rated.
+- **[jacksun911/megaswap-mcp](https://github.com/jacksun911/megaswap-mcp)** - AI-native DEX on MegaETH. 9 tools for token swaps, price quotes, liquidity management. Supports ETH, MEGAS, USDM, USDT0 and any ERC-20. `npx megaswap-mcp`
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
 
 ---
