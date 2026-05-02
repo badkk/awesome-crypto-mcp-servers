@@ -9,6 +9,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Server Implementations
 
+- **[Pyrimid Protocol](https://github.com/pyrimid-ai/pyrimid)** - Agent-commerce MCP server for Base USDC payments: browse paid products, preview x402 payment splits, route purchases, and earn affiliate commissions. Public endpoint: https://pyrimid.ai/api/mcp
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
