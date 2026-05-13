@@ -9,6 +9,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Server Implementations
 
+- <img height="12" width="12" src="https://cryptogenesis.duckdns.org/favicon.ico" alt="AIGEN Logo" /> **[Aigen-Protocol](https://github.com/Aigen-Protocol/aigen-protocol)** - Open Bounty Protocol for AI Agents on Base + Optimism. Post missions paid in USDC/ETH/AIGEN, agents deliver work with on-chain payouts. **0.5% protocol fee** vs 5-20% on Replit/Bountybird/Superteam Earn. Three verification mechanisms (peer_vote / first_valid_match / creator_judges). Includes built-in token & NFT safety scanners, prediction markets, DAO-governed insurance pool. MCP at `https://cryptogenesis.duckdns.org/mcp`.
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
