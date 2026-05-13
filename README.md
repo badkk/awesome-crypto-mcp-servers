@@ -22,6 +22,8 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
 
+- **[Swaps](https://github.com/swapsapp/swaps-mcp-server)** - Agent-native crypto on-ramp aggregator. Five tools for LLMs to quote crypto purchases across 6 licensed providers (Paybis, Transak, Mercuryo, Coinbase, Bridge, Partna) in 190 countries with 34+ payment methods. Returns winner + alternatives + structured `LLMExplainPayload` (why winner won, why each lost with %-delta). 6-axis provider taxonomy at [agent.swaps.app/taxonomy.json](https://agent.swaps.app/taxonomy.json). Install via `npx -y @agent.swaps/mcp-server`.
+
 ---
 
 Crafted by [Magnet Labs](https://magnetlabs.xyz) with our vibrant AI & Crypto community
