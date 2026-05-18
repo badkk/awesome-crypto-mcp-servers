@@ -10,6 +10,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 ## Server Implementations
 
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
+- **[btcmind](https://github.com/mguozhen/ai-crypto-claw)** - The first agent-first quantitative crypto trading MCP. 6 LLM agents (Bull/Bear/Technicals/Derivatives/TailRisk + Portfolio Manager) debate and output BUY/SELL/HOLD with confidence. Optional auto-execute on user-connected OKX. Install: `npx -y @btcmind/mcp@latest`
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
 - **[crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp)**  -  Providing real-time and historical Crypto Fear & Greed Index data.
