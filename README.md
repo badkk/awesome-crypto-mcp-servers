@@ -21,6 +21,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
+- **[Gapup MCP — x402-payable C-suite intelligence](https://github.com/getgapup/gapup-mcp-public)** - 185 agent-payable C-suite expertise tools that accept x402 micropayments (USDC + EURC on Base + Optimism). Includes crypto-specific tools (`crypto_wallet_intel`, `usdc_x402_payments_intel`, `historical_price_series`) alongside SEC filings, sanctions/KYC, clinical evidence, EU AI Act, real estate. Free tier 100 calls/month, no card. Endpoint : `https://mcp.gapup.io/mcp`.
 
 ---
 
