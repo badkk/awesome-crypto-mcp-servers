@@ -10,6 +10,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 ## Server Implementations
 
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
+- **[CryptoHunter](https://github.com/1snob/cryptohunter-mcp)** - Live crypto prices (CoinGecko), gas (Base + ETH), DEX quotes (CoW Protocol), token safety (GoPlus honeypot detection), wallet portfolio, and local AI inference (Qwen2.5 3B, DeepSeek-R1 14.8B, nomic embeddings). Pay-per-use via x402 USDC on Base — no API key, no account. Remote at `https://cryptohunterx402apis.loca.lt`
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
 - **[crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp)**  -  Providing real-time and historical Crypto Fear & Greed Index data.
