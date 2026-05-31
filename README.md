@@ -9,6 +9,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Server Implementations
 
+- **[Hive Intelligence](https://github.com/hive-intel/hive-sdk)** - Managed crypto market intelligence MCP for AI agents with hosted remote MCP, local stdio, SDKs, and skills across market data, DeFi, wallets, security, DEX, NFTs, Solana, and prediction markets.
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
