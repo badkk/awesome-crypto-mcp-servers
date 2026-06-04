@@ -10,7 +10,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 ## Server Implementations
 
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
-- **[agent-tools-mcp](https://github.com/JoursBleu/agent-tools-mcp)** - Discovery-layer MCP for x402 paid services on Base. Indexes 2,300+ services with quality signals (confidence + 30-day on-chain transaction volume). Free remote endpoint at https://agent-tools.cloud/mcp-discovery/.
+- **[agent-tools-mcp](https://github.com/AgentTools-Cloud/AgentToolsCollection)** - Discovery-layer MCP for x402 paid services on Base. Indexes 2,300+ services with quality signals (confidence + 30-day on-chain transaction volume). Free remote endpoint at https://agent-tools.cloud/mcp-discovery/.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
 - **[crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp)**  -  Providing real-time and historical Crypto Fear & Greed Index data.
