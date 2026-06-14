@@ -25,3 +25,4 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 ---
 
 Crafted by [Magnet Labs](https://magnetlabs.xyz) with our vibrant AI & Crypto community
+- **[Onchain Safety](https://github.com/aitools420/onchain-safety-mcp)** - Multi-chain token rug-check / honeypot transfer-simulation / size-aware exit-liquidity + a safety-gated smart-money feed on PulseChain, Monad, Base, and BSC. Strong on the long-tail chains GoPlus/De.Fi don't cover. Free tier + x402 pay-per-call.
