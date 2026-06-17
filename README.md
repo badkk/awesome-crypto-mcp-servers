@@ -21,6 +21,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
+- <img height="12" width="12" src="https://gainium.io/favicon.ico" alt="Gainium Logo" /> **[Gainium/gainium-mcp](https://github.com/Gainium/gainium-mcp)** - Manage Gainium DCA / Combo / Grid trading bots, deals, balances, the crypto screener, backtests, and curated strategy presets across Binance, Bybit, OKX, Kraken and other exchanges. Hosted endpoint at `https://mcp.gainium.io/mcp` (OAuth) or install via `npx gainium-mcp` for stdio.
 
 ---
 
