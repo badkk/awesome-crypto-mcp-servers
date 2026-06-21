@@ -11,6 +11,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
+- **[tensorfeed-x402-base-mcp](https://github.com/RipperMercs/tensorfeed-x402-base-mcp)** - Read-only [Base](https://base.org) mainnet chain reader purpose-built for x402 payment verification. Verifies on-chain that a USDC settlement matches a claimed x402 receipt (recipient and amount), parses publisher /.well-known/x402 manifests, and lists recent USDC payments to an address. No private keys, no signing, verification only. Run with `npx -y @tensorfeed/x402-base-mcp`.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
 - **[crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp)**  -  Providing real-time and historical Crypto Fear & Greed Index data.
 - **[cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server)** - Providing latest cryptocurrency news to AI agents, powered by CryptoPanic.
