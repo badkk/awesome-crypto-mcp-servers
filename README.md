@@ -8,6 +8,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - [MCP Server Manager Desktop App](https://github.com/Jeamee/MCPHub-Desktop/releases) - An Open Source MacOS & Windows GUI Desktop app for discovering, installing and managing MCP servers by [Jeamee](https://github.com/jeamee)
 
 ## Server Implementations
+- **[polymarket-mcp](https://github.com/amerilain/polymarket-mcp)** 🐍 - Dedicated Polymarket prediction market MCP server. 9 tools (top markets, search, narratives, arbitrage, volume spikes, movers). Zero dependencies, no API key. Free, MIT licensed. MCP stdio + HTTP mode.
 
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
