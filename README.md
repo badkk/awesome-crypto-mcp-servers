@@ -6,6 +6,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 - [How to Use MCP Tools on Claude Desktop App](https://medium.com/@pedro.aquino.se/how-to-use-mcp-tools-on-claude-desktop-app-and-automate-your-daily-tasks-1c38e22bc4b0)
 - [MCP Server Manager Desktop App](https://github.com/Jeamee/MCPHub-Desktop/releases) - An Open Source MacOS & Windows GUI Desktop app for discovering, installing and managing MCP servers by [Jeamee](https://github.com/jeamee)
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 
 ## Server Implementations
 
