@@ -4,6 +4,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Tutorials
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform (web, API, AD, Kubernetes), MCP host, proof of exploitation.
 - [How to Use MCP Tools on Claude Desktop App](https://medium.com/@pedro.aquino.se/how-to-use-mcp-tools-on-claude-desktop-app-and-automate-your-daily-tasks-1c38e22bc4b0)
 - [MCP Server Manager Desktop App](https://github.com/Jeamee/MCPHub-Desktop/releases) - An Open Source MacOS & Windows GUI Desktop app for discovering, installing and managing MCP servers by [Jeamee](https://github.com/jeamee)
 
