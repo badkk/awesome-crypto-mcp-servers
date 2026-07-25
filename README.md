@@ -9,6 +9,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Server Implementations
 
+- **[Firmbrain](https://github.com/bkrigmo1/robinhood-chain-x402)** - The only x402 (pay-per-call) MCP server for Robinhood Chain (chainId 4663): RPC, on-chain data, tokenized-stock registry, USDG stats, and address webhooks, plus a 147-tool onchain & trading-intelligence suite (safety, compliance, perps, options, portfolio) and LLM inference payable in USDG. No API keys; settles in USDC on Base/Polygon/Arbitrum/Solana or USDG on Robinhood Chain.
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
