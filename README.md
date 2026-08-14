@@ -21,9 +21,9 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
-- [CoinRebate](https://www.npmjs.com/package/@coinrebate/mcp-server) - The only crypto MCP server with **affiliate revenue share for AI agent
-  developers**. Permanent 20-40% fee discounts on Binance/OKX/Bybit/Bitget/Gate.io/Hyperliquid/Aster DEX via top-tier referral codes. 6 tools: fee
-  comparison, best referral, savings calculator, country compliance, news, exchange list. Install: `npx -y @coinrebate/mcp-server`
+- [CoinRebate](https://www.npmjs.com/package/@coinrebate/mcp-server) - Compliance-filtered crypto exchange fee comparison and rebate-link routing
+  for AI agents. Permanent fee discounts (up to 50%, varies by exchange) on Binance/OKX/Bybit/Bitget/Gate.io/Hyperliquid/Aster via real referral
+  codes. Listed on the official MCP Registry (`com.halffee/coinrebate`). Install: `npx -y @coinrebate/mcp-server`
 
 ---
 
