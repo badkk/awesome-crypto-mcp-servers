@@ -21,6 +21,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
+- **[SnowSignals TrendVane](https://github.com/snowkidind/snowsignals-mcp)** - Crypto market-phase classification: which phase a coin is in per timeframe (last-closed-bar or intra-bar), plus a Bitcoin-derived model of how each phase historically resolves (successor odds, trend-continuation, reward-vs-drawdown). Free discovery tools; metered live reads. Remote MCP at snowsignals.io; on the official registry as `io.snowsignals/snowsignals`.
 
 ---
 
