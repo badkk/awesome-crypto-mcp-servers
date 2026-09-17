@@ -25,3 +25,5 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 ---
 
 Crafted by [Magnet Labs](https://magnetlabs.xyz) with our vibrant AI & Crypto community
+- **[ForgeMesh Crypto Signals MCP](https://github.com/forgemeshlabs/crypto-signals-mcp)** - MCP client for crypto market signals and analytics, with pay-per-call x402 USDC payments on Base.
+
