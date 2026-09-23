@@ -9,6 +9,9 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 
 ## Server Implementations
 
+
+- **[code402](https://code402.dev)** (formerly openfang-rail) - Deterministic KYB/identity validation (IBAN, LEI, VAT, SWIFT/BIC + more) and rental-fraud verdicts, paid per call via x402 — gasless EIP-3009 USDC on Base. Signed offline-verifiable XDR-1 receipts; free tier 3 calls/day. Remote MCP at https://hcrb.in/mcp
+
 - <img height="12" width="12" src="https://www.bankless.com/favicon.ico" alt="Bankless Logo" /> **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer)** - Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)'s MPC wallet tech.
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
