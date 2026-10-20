@@ -22,6 +22,8 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
 
+- **[Money Reactor](https://github.com/makar52nn-crypto/x402-money-reactor)** - Pay-per-call crypto API for AI agents on Base: 18 x402 endpoints (token safety verdict from live DexScreener data, ERC-20 balances, honeypot check, prices, news, weather, url-to-text) settled in USDC via HTTP 402. Remote MCP at /mcp, Python + Node SDKs.
+
 ---
 
 Crafted by [Magnet Labs](https://magnetlabs.xyz) with our vibrant AI & Crypto community
