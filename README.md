@@ -21,6 +21,7 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
+- **[Trend0x MCP](https://github.com/trend0xai/trend0x-mcp)** - Hosted MCP server ([trend0x.com](https://trend0x.com)) for crypto and stock trading agents: market data, portfolio/PnL, backtests and paper runs across Bybit, OKX, Binance, Bitpanda, WhiteBIT and Alpaca, plus live orders that need explicit confirmation.
 
 ---
 
