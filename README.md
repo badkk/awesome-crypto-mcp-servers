@@ -22,6 +22,8 @@ A curated list of awesome [Model Context Protocol](https://modelcontextprotocol.
 - **[GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** - Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base.
 - **[Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** - This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing
 
+- **[Miramarket](https://github.com/miramarket/mcp-server)** - Hosted MCP server for an account trading Hyperliquid perps, tokenized stocks on Base and Polymarket prediction markets: look up markets, build a strategy from a plain-English idea, simulate it, or run it live within a budget the owner sets.
+
 ---
 
 Crafted by [Magnet Labs](https://magnetlabs.xyz) with our vibrant AI & Crypto community
